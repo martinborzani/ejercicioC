@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1655313656 source:c:\users\win10\desktop\programacion carrera\algoritmo y estructura de datos 1\practica recuperatorio 2do parcial\ejercicio 8 guia 8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

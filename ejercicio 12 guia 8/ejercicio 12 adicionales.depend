@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1652132503 source:c:\users\win10\desktop\programacion carrera\algoritmo y estructura de datos 1\practica recuperatorio 2do parcial\ejercicio 12 adicionales\tdacola.c
+	"tdacola.h"
+
+1652132504 c:\users\win10\desktop\programacion carrera\algoritmo y estructura de datos 1\practica recuperatorio 2do parcial\ejercicio 12 adicionales\tdacola.h
+
+1651917818 source:c:\users\win10\desktop\programacion carrera\algoritmo y estructura de datos 1\practica recuperatorio 2do parcial\ejercicio 12 adicionales\tdapila.c
+	"tdapila.h"
+
+1655751224 c:\users\win10\desktop\programacion carrera\algoritmo y estructura de datos 1\practica recuperatorio 2do parcial\ejercicio 12 adicionales\tdapila.h
+
+1655751883 source:c:\users\win10\desktop\programacion carrera\algoritmo y estructura de datos 1\practica recuperatorio 2do parcial\ejercicio 12 adicionales\main.c
+	<stdio.h>
+	<stdlib.h>
+	"tdacola.h"
+	"tdapila.h"
+

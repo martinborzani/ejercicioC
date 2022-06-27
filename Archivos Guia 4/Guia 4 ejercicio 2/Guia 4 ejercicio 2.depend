@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1649115344 source:c:\users\win10\desktop\programacion carrera\algoritmo y estructura de datos 1\ejercicios de guia 4\guia 4 ejercicio 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
